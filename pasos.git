@@ -1,0 +1,17 @@
+
+crear un repositorio 
+git init <--
+
+para dar seguimiento  a los archvos con git usamos..
+git add
+
+para saber a que direccion remota esta conectada nustro repo 
+git remote 
+
+
+para que los archivos a los que git da seguimiento los VERSIONE, usamos 
+git commit -m "mensaje de lo que se hizo" 
+
+
+para renombrar la rama maestra a main usamos
+git branch -M main
